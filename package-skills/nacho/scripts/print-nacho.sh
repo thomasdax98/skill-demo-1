@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "nacho"
+echo "tortilla chip"
